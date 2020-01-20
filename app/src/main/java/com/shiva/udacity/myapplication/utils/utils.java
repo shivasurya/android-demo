@@ -13,6 +13,10 @@ import java.net.URL;
 
 public class utils {
 
+    // define base api url
+    // implement parsing interface
+    // define generic error handler
+
     static String apikey = "REPLACE_ME";
 
     public static JSONObject getStops() throws JSONException
